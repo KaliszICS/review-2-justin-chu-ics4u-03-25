@@ -67,7 +67,7 @@ public class PracticeProblem {
 	}
 
 	public static void q6() {
-		Scanner scanner = new Scanner(System.in);
+				Scanner scanner = new Scanner(System.in);
 
 		System.out.print("In: ");
 		double double1 = scanner.nextDouble();
